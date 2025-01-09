@@ -9,8 +9,7 @@ I don't really know what to put in there, so here comes some random stuff about 
 - I tried working at a factory at Merck Molsheim, didn't really liked it.
 - I decided to learn code because in my search for something, it has been the only constant and it's fun learning how the things I use all the time actually work.
 
-And right now, the thing that interest me the most in coding is augmented reality. Mostly because of the potential in education and marketing, and also because it's cool as fuck. 
-I still don't have anything to show for it, but I'm working on it. Maybe when RA finally start trending, I will be at the spear head tripping all over the place and making stuff appear on your screen.
+Right now, I'm still discovering the many faces of programming. I'm mostly interested in cybersecurity because it would allow me to wear a colored hat and legally mess with people, I also like web development because of a desire to create pretty stuff that I never mustered the courage to actually pursue, and I also like augmented reality because it sounds cool as fuck.
 
 <!---
 Hector-boopy/Hector-boopy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
