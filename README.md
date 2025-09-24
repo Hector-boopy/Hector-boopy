@@ -9,7 +9,7 @@ I don't really know what to put in there, so here comes some random stuff about 
 - I tried working at a factory at Merck Molsheim, didn't really liked it
 - I decided to learn code because in my search for something, it has been the only constant and it's fun learning how the things I use all the time actually work
 
-Right now, I'm still discovering the many faces of programming. I'm interested in cybersecurity, and recently found another big interest in app dev, specifically with Angular which I think looks cool. I also want to check out Unity and C# for video games dev (duh), but also for UX because I think it has a lot of potential. My problem right now is actually focusing on one aspect, there is so much things to learn and it feels kinda onverwhelming.
+Right now, I'm still discovering the many faces of programming. I'm interested in cybersecurity, and recently found another big interest in app dev, specifically with Angular which I think looks cool. I also want to check out Unity and C# for video games dev (duh), but also for UX because I think it has a lot of potential. My problem right now is actually focusing on one aspect, there is so much things to learn and it feels kinda overwhelming.
 
 <!---
 Hector-boopy/Hector-boopy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
